@@ -14,5 +14,8 @@ Mostra o historico da 'branch'
 git log
 
 Ele cria uma nova "branch"
-git checkout -b <nome_>
+git checkout -b <nome_branch>
+
+Mudando de "branch"
+git checkout <nome_branch>
 
